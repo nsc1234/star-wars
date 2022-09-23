@@ -1,2 +1,2 @@
 # star-wars
-Star Wars Model
+This is a design of the Star Wars Imperial Star Destroyer Model
